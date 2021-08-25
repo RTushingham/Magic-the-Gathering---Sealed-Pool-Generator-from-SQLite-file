@@ -1,0 +1,1 @@
+["C:/Users/Ralph Tushingham/Desktop/Python Noise/MTG Sealed Pool Generator/EternalMasters.db", 2, 13, 3, 1, 2, 0, 2, 2, 1, true]
